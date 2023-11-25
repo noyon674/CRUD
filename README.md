@@ -4,6 +4,6 @@
 2. Update Info
 3. Delete Info
 
-'''
+```
 Technology: React, Bootstrap, Express, MongoDB
-'''
+```
